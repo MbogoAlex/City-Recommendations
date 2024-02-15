@@ -1,0 +1,211 @@
+<resources>
+    <string name="app_name">My City App</string>
+
+    <string name="coffee_shop_1_name">Brewed Awakening Café</string>
+    <string name="coffee_shop_1_desc">
+        This café is where the magic beans meet the beans of imagination! They offer a concoction called "The Wake-Up Slap" – it\'s so strong, it once told a knock-knock joke and opened the door on its own. Sip slowly, or you might end up challenging the local pigeons to a dance-off.
+    </string>
+
+    <string name="coffee_shop_2_name">Caffeine Castle</string>
+    <string name="coffee_shop_2_desc">
+        This café is where the magic beans meet the beans of imagination! They offer a concoction called "The Wake-Up Slap" – it\'s so strong, it once told a knoThis café is where the magic beans meet theAt Caffeine Castle, they brew their coffee so strong that it once bench-pressed a barista! Their signature drink, the "Espresso Exclamation," is so potent, it once convinced a decaf drinker to take up skydiving. Step in, but hold on tight – your taste buds are about to embark on a rollercoaster ride!
+    </string>
+
+    <string name="coffee_shop_3_name">Percolator Palace</string>
+    <string name="coffee_shop_3_desc">
+        This café is where the magic beans meet the beans of imagination! They offer This café is where thKnown for their innovative brews, Percolator Palace offers a drink called the \"Caffeine Conundrum\" – one sip, and you\'ll start solving Rubik\'s cubes with your eyes closed. Legend has it that their coffee beans were once mistaken for rocket fuel by NASA. Enter at your own risk; you might just leave with a newfound appreciation for puns and power naps.
+    </string>
+
+    <string name="coffee_shop_4_name">Mirthful Mocha House</string>
+    <string name="coffee_shop_4_desc">
+        If laughter is the best medicine, then Mirthful Mocha House is the pharmacy of joy! Their \"Chuckling Cappuccino\" is so frothy, it once convinced a skeptic that unicorns were real. Don\'t be surprised if you leave with a permanent smile – their baristas double as stand-up comedians!
+    </string>
+
+    <string name="coffee_shop_5_name">Grins &amp; Grinds Café</string>
+    <string name="coffee_shop_5_desc">
+        Brace yourself for a coffee experience that\'ll make you grin from ear to ear! The "Hilarious Hazelnut Latte" at Grins &amp; Grinds Café is so smooth, it once convinced a skeptic to take up synchronized swimming with dolphins. Come for the coffee, stay for the impromptu dance parties.
+    </string>
+
+    <string name="coffee_shop_6_name">The Laughing Latte Lounge</string>
+    <string name="coffee_shop_6_desc">
+        Step into a world where every cup of coffee comes with a side of laughter! The "Giggling Guatemalan" at The Laughing Latte Lounge is so delicious, it once made a mime break character and start telling jokes. Warning: their pastries are so good, you might accidentally propose to the croissant.
+    </string>
+
+    <string name="coffee_shop_7_name">Whimsical Wake-Up</string>
+    <string name="coffee_shop_7_desc">
+        Prepare to be whisked away on a whimsical journey of flavor and fun! Their "Whirling Dervish Doppio" is so invigorating, it once inspired a sloth to run a marathon. At Whimsical Wake-Up, even the sugar packets have comedic timing.
+    </string>
+
+    <string name="coffee_shop_8_name">Beans \'n\' Banter Café</string>
+    <string name="coffee_shop_8_desc">
+        Where beans meet belly laughs, and every cup is brewed with a dash of wit! Their "Guffawing Gourmet" blend is so aromatic, it once convinced a skeptic to take up aromatherapy as a full-time career. Enter as strangers, leave as caffeinated comrades!
+    </string>
+
+    <string name="restaurant_1_name">Belly Buster Bistro</string>
+    <string name="restaurant_1_desc">
+        Where beans meet belly laughs, and every cup is brewed with a dash of wit! Their \"Guffawing Gourmet\" blend is so aromatic, it once convinced a skeptic to take up aromatherapy asWhere beans meet belly laughs, and every cup Brace yourself for a culinary adventure that\'ll have you loosening your belt and tightening your abs! The \"Gargantuan Gourmet Burger\" at Belly Buster Bistro is so massive, it once doubled as a flotation device. Warning: their desserts are so decadent, they\'ve been known to induce food comas and spontaneous poetry recitals.
+    </string>
+
+    <string name="restaurant_2_name">The Chuckle Hut</string>
+    <string name="restaurant_2_desc">
+        Where every bite is a punchline and every dish is a masterpiece of mirth! The \"Raucous Ravioli\" at The Chuckle Hut is so delicious, it once convinced a skeptic to audition for a cooking show. Be prepared for a meal that\'ll leave you rolling in the aisles (and possibly rolling out the door)!
+    </string>
+
+    <string name="restaurant_3_name">Giggle Grub Grill</string>
+    <string name="restaurant_3_desc">
+        Get ready for a gastronomic journey that\'ll have your taste buds doing cartwheels! The "Chortling Chicken Sandwich" at Giggle Grub Grill is so mouthwatering, it once convinced a vegetarian to reconsider their life choices. Enter hungry, leave laughing – and possibly waddling.
+    </string>
+
+    <string name="restaurant_4_name">The Laughing Lobster</string>
+    <string name="restaurant_4_desc">
+        Dive into a dining experience that\'ll have you laughing so hard, you might accidentally inhale a shrimp! The "Screaming Seafood Platter" at The Laughing Lobster is so fresh, it once convinced a fish to swim upstream just for one taste. Warning: their oysters are known to tell pearls of wisdom.
+    </string>
+
+    <string name="restaurant_5_name">Chuckling Chomp House</string>
+    <string name="restaurant_5_desc">
+        Where food and fun collide in a symphony of flavor and frivolity! The "Belly Laugh Beef Brisket" at Chuckling Chomp House is so tender, it once made a vegetarian rethink their entire worldview. Come hungry, leave happy – and possibly with a new catchphrase.
+    </string>
+
+    <string name="restaurant_6_name">The Humorist\'s Hideaway</string>
+    <string name="restaurant_6_desc">
+        Prepare to be whisked away on a culinary journey that\'ll tickle your taste buds and your funny bone! The "Jocular Jambalaya" at The Humorist\'s Hideaway is so spicy, it once convinced a skeptic to audition for a reality cooking show. Enter hungry, leave with a newfound appreciation for puns and paprika.
+    </string>
+
+    <string name="restaurant_7_name">The Chuckle &amp; Chew Café</string>
+    <string name="restaurant_7_desc">
+        Brace yourself for a dining experience that\'ll have you laughing so hard, you might accidentally inhale your appetizer! The "Belly Buster Breakfast Burrito" at The Chuckle &amp; Chew Café is so hearty, it once convinced a skeptic to start a brunch-themed band. Come for the food, stay for the comedy – and possibly the nap afterward.
+    </string>
+
+    <string name="restaurant_8_name">Snicker &amp; Savor Steakhouse</string>
+    <string name="restaurant_8_desc">
+        Brace yourself for a dinBrace yourself for a dinPrepare to be wowed by a menu that\'s as bold as it is hilarious! The \"Laughing Loin\" at Snicker &amp; Savor Steakhouse is so succulent, it once made a vegetarian consider joining a carnivore support group. Warning: their desserts are so decadent, they\'ve been known to induce uncontrollable giggling fits.
+    </string>
+
+    <string name="kid_place_1_name">The Chuckle &amp; Cuddle Corner</string>
+    <string name="kid_place_1_desc">
+        Welcome to a wonderland of whimsy where laughter is the main course and cuddles are the dessert! The "Giggly Jungle Gym" at The Chuckle &amp; Cuddle Corner is so exciting, it once convinced a skeptic to join the kids for a game of hide-and-seek. Warning: their storytime sessions are known to inspire epic pillow forts.
+    </string>
+
+    <string name="kid_place_2_name">The Giggles &amp; Games Garden</string>
+    <string name="kid_place_2_desc">
+        Step into a world of fun and frolic where every day is a playdate and every hour is happy hour! The "Chuckling Carousel" at The Giggles &amp; Games Garden is so exhilarating, it once convinced a skeptic to audition for the circus. Come for the swings, stay for the spontaneous dance parties.
+    </string>
+
+    <string name="kid_place_3_name">The Silly Slide Sanctuary</string>
+    <string name="kid_place_3_desc">
+        Prepare to slide into a world of laughter and levity where every ride is a riot and every twist is a tickle! The "Guffawing Giant Slide" at The Silly Slide Sanctuary is so thrilling, it once convinced a skeptic to trade in their suit for a superhero cape. Warning: their bounce house is known to induce fits of giggles and impromptu cartwheel competitions.
+    </string>
+
+    <string name="kid_place_4_name">Chuckling Chess Clubhouse</string>
+    <string name="kid_place_4_desc">
+        Get ready to checkmate your worries and laugh your way to victory at the Chuckling Chess Clubhouse! The "Giggling Giant Chessboard" is so strategic, it once convinced a skeptic to start a game night club. Come for the games, stay for the camaraderie – and possibly the victory dance.
+    </string>
+
+    <string name="kid_place_5_name">The Laughing Lagoon</string>
+    <string name="kid_place_5_desc">
+        Dive into a world of aquatic adventure where every splash is a symphony and every wave is a waltz! The "Belly Laugh Beach" at The Laughing Lagoon is so inviting, it once convinced a skeptic to take up synchronized swimming. Warning: their sandcastle contests are known to inspire epic architectural masterpieces and impromptu mermaid parades.
+    </string>
+
+    <string name="kid_place_6_name">The Chuckle &amp; Chill Cinema</string>
+    <string name="kid_place_6_desc">
+        Prepare to be whisked away on a cinematic journey that\'ll have you laughing, crying, and possibly snorting popcorn out of your nose! The \"Guffawing Giant Screen\" at The Chuckle &amp; Chill Cinema is so immersive, it once convinced a skeptic to audition for a movie role. Come for the films, stay for the buttery popcorn – and possibly the director\'s cut.
+    </string>
+
+    <string name="kid_place_7_name">The Playful Picnic Park</string>
+    <string name="kid_place_7_desc">
+        Welcome to a paradise of picnics where every blanket is a stage and every sandwich is a star! The "Chuckling Creek" at The Playful Picnic Park is so serene, it once convinced a skeptic to start a nature photography club. Warning: their scavenger hunts are known to inspire epic adventures and impromptu treasure maps.
+    </string>
+
+    <string name="kid_place_8_name">The Chuckle &amp; Climb Center</string>
+    <string name="kid_place_8_desc">
+        Get ready to scale new heights of hilarity at The Chuckle &amp; Climb Center! The "Laughing Ladder" is so challenging, it once convinced a skeptic to join a rock climbing team. Come for the adventure, stay for the camaraderie – and possibly the summit selfie.
+    </string>
+
+    <string name="park_1_name">Chuckleville Central Park</string>
+    <string name="park_1_desc">
+        Welcome to the heart of Chuckleville, where even the trees have a sense of humor! Chuckleville Central Park boasts a \"Giggle Garden\" filled with flowers that tell jokes and squirrels that perform stand-up comedy. Don\'t be surprised if you find yourself laughing so hard, you accidentally start a flash mob.
+    </string>
+
+    <string name="park_2_name">Whimsy Woods</string>
+    <string name="park_2_desc">
+        Step into a world of whimsy and wonder at Whimsy Woods, where every tree has a personality and every path leads to a new adventure. Rumor has it that the "Chortle Clearing" is haunted by a giggling ghost who loves to play pranks on unsuspecting picnickers. Bring your sense of humor – and maybe a spare pair of socks (for laughing so hard you might cry).
+    </string>
+
+    <string name="park_3_name">Laughing Lakeside Park</string>
+    <string name="park_3_desc">
+        Prepare to be dazzled by the beauty and hilarity of Laughing Lakeside Park! The "Guffawing Grove" is filled with trees that whisper jokes to each other, while the "Chuckle Cove" is home to a family of ducks who put on comedy shows for anyone who stops to listen. Pack a picnic and get ready to laugh your lunch off.
+    </string>
+
+    <string name="park_4_name">Merry Meadows</string>
+    <string name="park_4_desc">
+        Welcome to Merry Meadows, where every blade of grass has a funny story to tell and every flower knows a good knock-knock joke. The "Mirthful Meadow" is the perfect spot for a game of frisbee or a round of tag, while the "Giggle Glen" is a favorite hangout for squirrels who love to do pratfalls for peanuts.
+    </string>
+
+    <string name="park_5_name">Hilarity Hill Park</string>
+    <string name="park_5_desc">
+        Climb to the top of Hilarity Hill Park and prepare to be amazed by the stunning views – and the non-stop laughter! The "Chuckle Summit" is the perfect spot for a selfie with a view, while the "Giggling Gorge" is home to a colony of chipmunks who love to put on acrobatics shows for anyone who stops to watch.
+    </string>
+
+    <string name="park_6_name">Snicker Square</string>
+    <string name="park_6_desc">
+        Get ready to snicker your way through Snicker Square, where every bench has a joke carved into it and every fountain spouts punchlines instead of water. The "Belly Laugh Bridge" is the perfect spot for a romantic stroll or a tickle fight, while the "Chuckling Courtyard" is a favorite hangout for locals who love to swap puns and anecdotes.
+    </string>
+
+    <string name="park_7_name">Jovial Jungle</string>
+    <string name="park_7_desc">
+        Step into the Jovial Jungle and prepare to be transported to a world of laughter and adventure! The "Chuckle Clearing" is the perfect spot for a game of hide-and-seek or a round of charades, while the "Laughing Lagoon" is home to a family of otters who love to put on synchronized swimming shows for anyone who stops to watch.
+    </string>
+
+    <string name="park_8_name">Giggles Galore Gardens</string>
+    <string name="park_8_desc">
+        Get ready to giggle your way through Giggles Galore Gardens, where every flower has a funny name and every bush has a quirky personality. The "Belly Laugh Botanicals" section is the perfect spot for a leisurely stroll or a game of "Guess That Pun," while the "Chortle Corner" is a favorite hangout for locals who love to swap gardening tips and jokes.
+    </string>
+
+    <string name="shopping_center_1_name">The Chuckle Mall</string>
+    <string name="shopping_center_1_desc">
+        Welcome to The Chuckle Mall, where every purchase comes with a side of laughter! From the \"Giggle Garage\" filled with quirky gadgets to the "Chortle Clothing" store with pun-tastic fashion, this mall is a shopper\'s paradise with a sense of humor. Don\'t be surprised if you leave with a full shopping bag and a sore belly from laughing too hard.
+    </string>
+
+    <string name="shopping_center_2_name">Whimsy Plaza</string>
+    <string name="shopping_center_2_desc">
+        Step into a world of whimsy and wonder at Whimsy Plaza, where every storefront is a work of art and every aisle is an adventure. The \"Laughing Lounge\" is the perfect spot to relax and enjoy a comedy show, while the "Chuckling Café" serves up delicious treats with a side of silliness. Bring your wallet and your sense of humor – you\'re in for a wild ride.
+    </string>
+
+    <string name="shopping_center_3_name">Mirthful Market</string>
+    <string name="shopping_center_3_desc">
+        Get ready to shop \'til you drop – with laughter – at Mirthful Market! From the \"Hilarious Home Goods\" store filled with quirky decor to the \"Snickering Snack Shack\" serving up tasty treats, this market has something for everyone. Just be prepared to leave with a smile on your face and a few extra items in your cart that you didn\'t know you needed.
+    </string>
+
+    <string name="shopping_center_4_name">Giggles Galore Galleria</string>
+    <string name="shopping_center_4_desc">
+        Prepare to be dazzled by the sights and sounds of Giggles Galore Galleria! From the \"Whimsical Wardrobe\" boutique with fashion-forward finds to the \"Chuckle Crafts\" store filled with handmade treasures, this galleria is a shopper\'s paradise with a twist. Grab your friends and get ready to shop – and laugh – \'til you drop.
+    </string>
+
+    <string name="shopping_center_5_name">The Laughing Plaza</string>
+    <string name="shopping_center_5_desc">
+        Welcome to The Laughing Plaza, where every purchase is a punchline and every sale is a scream! From the \"Hysterical Hardware\" store with quirky tools to the \"Jolly Jewelry\" shop with bling that\'ll make you smile, this plaza is a treasure trove of laughter and delight. Bring your sense of humor – and your credit card – you\'re in for a wild ride.
+    </string>
+
+    <string name="shopping_center_6_name">Chuckleville Center</string>
+    <string name="shopping_center_6_desc">
+        Get ready to explore the Chuckleville Center, where every shop is a smile waiting to happen! From the \"Whimsy Wardrobe\" clothing store with funky fashion to the \"Giggle Grocery\" market with pun-tastic produce, this center has something for everyone. Don\'t forget to stop by the \"Laughing Lounge\" for a comedy show – it\'s the perfect way to end a day of shopping and silliness.
+    </string>
+
+    <string name="shopping_center_7_name">The Snicker Square</string>
+    <string name="shopping_center_7_desc">
+        Step into The Snicker Square and prepare to be amused by the array of shops and boutiques! From the \"Guffaw Gallery\" featuring quirky art to the \"Hilarity Hardware\" store with gadgets that\'ll make you chuckle, this square is a haven for shoppers with a sense of humor. Don\'t miss the "Chuckle Café\" for a coffee break – their drinks are as funny as they are delicious.
+    </string>
+
+    <string name="shopping_center_8_name">The Chuckle Emporium</string>
+    <string name="shopping_center_8_desc">
+        Welcome to The Chuckle Emporium, where every aisle is an adventure and every purchase is a punchline! From the \"Whimsical Workshop\" with quirky crafts to the \"Mirthful Marketplace\" with unique finds, this emporium is a treasure trove of laughter and delight. Don\'t miss the \"Giggle Garden\" – it\'s the perfect spot to relax and enjoy the whimsical atmosphere.
+    </string>
+    
+    <string name="coffee_shops">Coffee shops</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="kid_friendly_places">Kid-friendly places</string>
+    <string name="parks">Parks</string>
+    <string name="shopping_centers">Shopping centers</string>
+
+    <string name="recommendation">Recommendation Info</string>
+</resources>
